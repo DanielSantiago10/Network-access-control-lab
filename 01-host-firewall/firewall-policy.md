@@ -16,4 +16,4 @@ This configuration ensures that only the administrative network can access the s
 
 ## Evidence
 
-![Host Firewall Policy](screenshots/host-firewall.png)
+![Host Firewall Policy](https://github.com/DanielSantiago10/Network-access-control-lab/blob/main/01-host-firewall/screenshots/host%20based%20firewall.png)
