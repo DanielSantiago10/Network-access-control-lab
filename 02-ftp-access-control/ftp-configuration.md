@@ -21,4 +21,4 @@ This ensures users only have access necessary for their roles, reducing risk.
 
 ## Evidence
 
-![FTP Configuration](screenshots/ftp-users.png)
+![FTP Configuration](https://github.com/DanielSantiago10/Network-access-control-lab/blob/main/02-ftp-access-control/screenshots/ftp%20configuration.png)
